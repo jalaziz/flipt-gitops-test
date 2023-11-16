@@ -1,0 +1,3 @@
+[submodule "submodules/flipt"]
+	path = submodules/flipt
+	url = https://github.com/flipt-io/flipt.git
